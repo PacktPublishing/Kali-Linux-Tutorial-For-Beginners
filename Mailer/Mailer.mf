@@ -1,0 +1,3 @@
+SHA1(Mailer.ovf)= c76769d2df633730bcb11ec4e64501cd9dd6a476
+SHA1(Mailer-disk1.vmdk)= a5f870e4e4d2babb337d34b7a2d82dc1b45b91be
+SHA1(Mailer-file1.iso)= e1e074b4302898698977c08013e0afe5c06245e2
