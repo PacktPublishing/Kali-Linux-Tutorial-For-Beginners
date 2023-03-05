@@ -1,0 +1,7 @@
+Putty for Windows 32-bit https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
+
+Putty for Windows 64-bit
+https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
+
+WinSCP
+https://winscp.net/download/WinSCP-5.9.4-Portable.zip

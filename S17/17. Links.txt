@@ -1,0 +1,2 @@
+Ubuntu mini http://ports.ubuntu.com/dists/trusty/main/installer-powerpc/current/images/powerpc/netboot/mini.iso
+Tiki https://www.exploit-db.com/apps/56a172adebb0417a17041d521c127db6-tiki-15.1.7z
